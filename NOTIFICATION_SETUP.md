@@ -181,7 +181,7 @@ MacroDroidを開き、**マクロを追加**(Add Macro)をタップして、以�
 2. **Request method**: `POST`
 3. **URL**:
    ```
-   https://api.github.com/repos/subaru12321-prog/oshi-tracker/dispatches
+   https://api.github.com/repos/nooton123/oshi-tracker/dispatches
    ```
 4. **Header Params**(キーと値を1組ずつ追加する欄です。以下の3組を
    追加してください):
